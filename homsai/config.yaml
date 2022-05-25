@@ -1,0 +1,23 @@
+name: Homsai Engine
+version: "0.012"
+slug: homsai
+description: Add on that exposes the homsai magic to home assistant
+url: https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on
+codenotary: hello@homsai.app
+init: false
+hassio_api: true
+homeassistant_api: true
+ingress: true
+auth_api: true
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+options:
+  log_level: debug
+  seconds_between_quotes: 5
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)
+  seconds_between_quotes: int(1,120)
