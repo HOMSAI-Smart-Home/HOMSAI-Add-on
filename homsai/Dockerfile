@@ -1,10 +1,8 @@
-# https://developers.home-assistant.io/docs/add-ons/configuration#add-on-dockerfile
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
 COPY rootfs /
-# Execute during the build of the image
-# VOLUME ["/run"]
+
 RUN apk add --no-cache \
     coreutils=9.0-r2  \
     wget=1.21.2-r2 \
