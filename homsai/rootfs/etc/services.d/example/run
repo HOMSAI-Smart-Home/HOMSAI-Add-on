@@ -5,4 +5,4 @@
 # s6-overlay docs: https://github.com/just-containers/s6-overlay
 # ==============================================================================
 
-python3 /home/homsai-engine/main.py -b http://supervisor/core -t "$SUPERVISOR_TOKEN"
+java -jar /home/homsai-engine-0.0.1.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
