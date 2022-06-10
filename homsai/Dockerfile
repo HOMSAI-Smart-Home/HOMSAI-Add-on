@@ -1,11 +1,6 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM adoptopenjdk/openjdk11
 
 COPY rootfs /
+# Execute during the build of the image
 
-RUN apk add --no-cache \
-    coreutils=9.0-r2  \
-    wget=1.21.2-r2 \
-    openjdk8
-
-RUN wget "https://github.com/HOMSAI-Smart-Home/HOMSAI-Engine/releases/download/v0.0.1-dev-alpha/homsai-engine-0.0.1.jar" -P /home
+CMD java -jar /home/homsai-engine-0.0.1.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
