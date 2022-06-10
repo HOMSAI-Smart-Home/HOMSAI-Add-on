@@ -9,6 +9,7 @@ hassio_api: true
 homeassistant_api: true
 ingress: true
 auth_api: true
+ingress_port: 8080
 ports:
   8080/tcp: 8080
 arch:
