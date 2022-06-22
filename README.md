@@ -5,7 +5,7 @@ Thanks to our add-on you will no longer have to think about managing the devices
 <br/><br/>
 
 <p align="center">
-  <img src="homsai/assets/homsai1.gif" />
+  <img src="https://homsai.app/wp-content/uploads/2022/06/homsai1.gif" />
 </p>
 <br/><br/>
 
