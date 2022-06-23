@@ -1,3 +1,0 @@
-#!/usr/bin/with-contenv bashio
-
-java -jar /home/homsai-engine-0.0.1.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
