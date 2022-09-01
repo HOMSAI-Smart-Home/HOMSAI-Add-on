@@ -1,0 +1,107 @@
+{
+    "name": "Homsai Engine",
+    "slug": "3dc7f106_homsai",
+    "hostname": "3dc7f106-homsai",
+    "dns": [
+        "3dc7f106-homsai.local.hass.io"
+    ],
+    "description": "Add on that exposes the homsai magic to home assistant",
+    "long_description": "# Homsai Engine: maximum comfort, minimum consumption thanks to AI\n\n**Homsai Engine** uses artificial intelligence to optimize the consumption of your home and save energy.\nThanks to our add-on you will no longer have to think about managing the devices in the house because it will be the Homsai Engine **that will make the photovoltaic system and the HVAC devices work in synergy**, guaranteeing savings and maximum comfort.\n<br/><br/>\n\n<p align=\"center\">\n  <img src=\"https://homsai.app/wp-content/uploads/2022/06/homsai1.gif\" />\n</p>\n<br/>\n\n## Why choose Homsai Engine\n\n- **Minimum effort, maximum result**: with Homsai Engine you will take advantage of a sophisticated algorithm that will allow you to spend nothing on energy, without the need to call an installer.\n- Automatic detection of **all devices** on your instance\n- Reporting with **detailed consumption** of HVAC devices\n- **Simple** and well documented installation\n  Add the add-on and proceed with the initial wizard: in a few minutes you can make your home really smart. With lower bills and maximum comfort for you and your family.\n\n## Resources\n\n- [GitHub](https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on)\n- [Website](www.homsai.app)\n- [Instagram](https://www.instagram.com/homsai.app/)\n- [Facebook](https://www.facebook.com/HomsaiApp)\n- [Contact Support](mailto:hello@homsai.app)\n",
+    "advanced": false,
+    "stage": "stable",
+    "repository": "3dc7f106",
+    "version_latest": "0.0.22",
+    "protected": true,
+    "rating": 8,
+    "boot": "auto",
+    "options": {
+        "log_level": "info"
+    },
+    "schema": [
+        {
+            "name": "log_level",
+            "required": true,
+            "type": "select",
+            "options": [
+                "trace",
+                "debug",
+                "info",
+                "notice",
+                "warning",
+                "error",
+                "fatal"
+            ]
+        }
+    ],
+    "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "armv7",
+        "i386"
+    ],
+    "machine": [],
+    "homeassistant": null,
+    "url": "https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on",
+    "detached": false,
+    "available": true,
+    "build": true,
+    "network": {
+        "8099/tcp": 8099
+    },
+    "network_description": null,
+    "host_network": false,
+    "host_pid": false,
+    "host_ipc": false,
+    "host_dbus": false,
+    "privileged": [],
+    "full_access": false,
+    "apparmor": "profile",
+    "icon": true,
+    "logo": true,
+    "changelog": true,
+    "documentation": true,
+    "stdin": false,
+    "hassio_api": true,
+    "hassio_role": "default",
+    "auth_api": true,
+    "homeassistant_api": true,
+    "gpio": false,
+    "usb": false,
+    "uart": false,
+    "kernel_modules": false,
+    "devicetree": false,
+    "udev": false,
+    "docker_api": false,
+    "video": false,
+    "audio": false,
+    "startup": "application",
+    "services": [],
+    "discovery": [],
+    "translations": {
+        "en": {
+            "configuration": {
+                "message": {
+                    "name": "Message",
+                    "description": "The message that will be printed to the log when starting this example add-on."
+                }
+            }
+        }
+    },
+    "ingress": true,
+    "signed": true,
+    "state": "started",
+    "webui": null,
+    "ingress_entry": "/api/hassio_ingress/nelSMIA6uwxnw_nxbURIOCsqi16618i6viqMggY84VQ",
+    "ingress_url": "/api/hassio_ingress/nelSMIA6uwxnw_nxbURIOCsqi16618i6viqMggY84VQ/",
+    "ingress_port": 8099,
+    "ingress_panel": true,
+    "audio_input": null,
+    "audio_output": null,
+    "auto_update": true,
+    "ip_address": "172.30.33.0",
+    "version": "0.0.22",
+    "update_available": false,
+    "watchdog": true,
+    "devices": []
+}

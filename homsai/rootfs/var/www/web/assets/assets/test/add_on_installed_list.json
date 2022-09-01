@@ -1,0 +1,23 @@
+{
+    "addons": [
+        {
+            "name": "Homsai Engine",
+            "slug": "3dc7f106_homsai",
+            "description": "Add on that exposes the homsai magic to home assistant",
+            "advanced": false,
+            "stage": "stable",
+            "version": "0.0.22",
+            "version_latest": "0.0.22",
+            "update_available": false,
+            "available": true,
+            "detached": false,
+            "homeassistant": null,
+            "state": "started",
+            "repository": "3dc7f106",
+            "build": true,
+            "url": "https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on",
+            "icon": true,
+            "logo": true
+        }
+    ]
+}

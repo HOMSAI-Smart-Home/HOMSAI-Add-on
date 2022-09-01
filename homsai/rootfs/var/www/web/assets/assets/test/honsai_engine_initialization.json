@@ -1,0 +1,15 @@
+{
+    "hvac_devices_list": [
+        {
+            "entity_id": "1",
+            "power_consumption": 400,
+            "type": 1,
+            "hvac_modes": [],
+            "min_temp": 24.0,
+            "max_temp": 28.0,
+            "intervals": [],
+            "enabled": false
+        }
+    ],
+    "initialization_time_secs": 10
+}
