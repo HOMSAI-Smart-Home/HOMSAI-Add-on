@@ -1,0 +1,1444 @@
+{
+    "data": [
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 0
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 15
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 30
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 45
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 60
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 75
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 90
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 105
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 120
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 135
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 150
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 165
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 180
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 195
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 210
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 225
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 240
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 255
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 270
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 285
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 300
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 315
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 330
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 345
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 360
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 375
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 390
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 405
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.3823798754811287,
+            "minutes_in_day": 420
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.5196895498037337,
+            "minutes_in_day": 435
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.6318132072687148,
+            "minutes_in_day": 450
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.8111795863509177,
+            "minutes_in_day": 465
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.074426832795143,
+            "minutes_in_day": 480
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.2501722753047941,
+            "minutes_in_day": 495
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.5251339077949522,
+            "minutes_in_day": 510
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.7549496549367902,
+            "minutes_in_day": 525
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.968110902905464,
+            "minutes_in_day": 540
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.205286771059036,
+            "minutes_in_day": 555
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.4370202422142024,
+            "minutes_in_day": 570
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.805425723791122,
+            "minutes_in_day": 585
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.1035011601448055,
+            "minutes_in_day": 600
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.425605473518371,
+            "minutes_in_day": 615
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.6364106297492977,
+            "minutes_in_day": 630
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.872263008356094,
+            "minutes_in_day": 645
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.6899276733398434,
+            "minutes_in_day": 660
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.8996349334716793,
+            "minutes_in_day": 675
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.911662191152572,
+            "minutes_in_day": 690
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.0625165176391596,
+            "minutes_in_day": 705
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.8950085306167597,
+            "minutes_in_day": 720
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.979731270074844,
+            "minutes_in_day": 735
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.055490653514862,
+            "minutes_in_day": 750
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.124742450714111,
+            "minutes_in_day": 765
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.378611395359039,
+            "minutes_in_day": 780
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.336209411621093,
+            "minutes_in_day": 795
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.278028585910796,
+            "minutes_in_day": 810
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.2189712643623345,
+            "minutes_in_day": 825
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.38314435005188,
+            "minutes_in_day": 840
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.330643255710601,
+            "minutes_in_day": 855
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.298517694473266,
+            "minutes_in_day": 870
+        },
+        {
+            "date": "2022-08-25",
+            "production": 4.258898549079895,
+            "minutes_in_day": 885
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.9463106131553647,
+            "minutes_in_day": 900
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.880121519565582,
+            "minutes_in_day": 915
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.7366656517982477,
+            "minutes_in_day": 930
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.5817293179035183,
+            "minutes_in_day": 945
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.332546199560165,
+            "minutes_in_day": 960
+        },
+        {
+            "date": "2022-08-25",
+            "production": 3.1664773142337794,
+            "minutes_in_day": 975
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.9006242418289183,
+            "minutes_in_day": 990
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.709762361049652,
+            "minutes_in_day": 1005
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.300734484195709,
+            "minutes_in_day": 1020
+        },
+        {
+            "date": "2022-08-25",
+            "production": 2.078837270736694,
+            "minutes_in_day": 1035
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.88615674495697,
+            "minutes_in_day": 1050
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.7063478648662564,
+            "minutes_in_day": 1065
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.3778292936086654,
+            "minutes_in_day": 1080
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.2300824779272077,
+            "minutes_in_day": 1095
+        },
+        {
+            "date": "2022-08-25",
+            "production": 1.0614827048778532,
+            "minutes_in_day": 1110
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.8464802885055541,
+            "minutes_in_day": 1125
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.7005548733472823,
+            "minutes_in_day": 1140
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.48430129989981646,
+            "minutes_in_day": 1155
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.32630585655570027,
+            "minutes_in_day": 1170
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.23969546422362326,
+            "minutes_in_day": 1185
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1200
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1215
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1230
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1245
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1260
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1275
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1290
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1305
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1320
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1335
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1350
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1365
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1380
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1395
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1410
+        },
+        {
+            "date": "2022-08-25",
+            "production": 0.0,
+            "minutes_in_day": 1425
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 0
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 15
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 30
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 45
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 60
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 75
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 90
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 105
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 120
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 135
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 150
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 165
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 180
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 195
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 210
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 225
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 240
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 255
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 270
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 285
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 300
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 315
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 330
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 345
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 360
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 375
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 390
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 405
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.3303593802452087,
+            "minutes_in_day": 420
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.4594961142539978,
+            "minutes_in_day": 435
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.566614364683628,
+            "minutes_in_day": 450
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.7103624975681304,
+            "minutes_in_day": 465
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.739601588845253,
+            "minutes_in_day": 480
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.8614844691753386,
+            "minutes_in_day": 495
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.9962840420007705,
+            "minutes_in_day": 510
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.1729657632112502,
+            "minutes_in_day": 525
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.8376311510801313,
+            "minutes_in_day": 540
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.020308290719986,
+            "minutes_in_day": 555
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.2286421024799346,
+            "minutes_in_day": 570
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.527095404863357,
+            "minutes_in_day": 585
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.492599375247955,
+            "minutes_in_day": 600
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.7273708701133725,
+            "minutes_in_day": 615
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.971962568759918,
+            "minutes_in_day": 630
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.2037772679328915,
+            "minutes_in_day": 645
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.8154726433753963,
+            "minutes_in_day": 660
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.019537791013717,
+            "minutes_in_day": 675
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.058441219329834,
+            "minutes_in_day": 690
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.177637944221496,
+            "minutes_in_day": 705
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.788096405267715,
+            "minutes_in_day": 720
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.842093389034271,
+            "minutes_in_day": 735
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.926798397302627,
+            "minutes_in_day": 750
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.960987246036529,
+            "minutes_in_day": 765
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.26028733253479,
+            "minutes_in_day": 780
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.182954905033111,
+            "minutes_in_day": 795
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.152358059883118,
+            "minutes_in_day": 810
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.072234168052673,
+            "minutes_in_day": 825
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.107429621219635,
+            "minutes_in_day": 840
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.10272702217102,
+            "minutes_in_day": 855
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.9391369092464443,
+            "minutes_in_day": 870
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.8840765333175655,
+            "minutes_in_day": 885
+        },
+        {
+            "date": "2022-08-26",
+            "production": 4.083231339454651,
+            "minutes_in_day": 900
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.939556707143783,
+            "minutes_in_day": 915
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.736823794841766,
+            "minutes_in_day": 930
+        },
+        {
+            "date": "2022-08-26",
+            "production": 3.5974369955062864,
+            "minutes_in_day": 945
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.757212941646576,
+            "minutes_in_day": 960
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.6033126842975616,
+            "minutes_in_day": 975
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.4059381854534148,
+            "minutes_in_day": 990
+        },
+        {
+            "date": "2022-08-26",
+            "production": 2.2134864878654477,
+            "minutes_in_day": 1005
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.6045063805580138,
+            "minutes_in_day": 1020
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.3901033502817153,
+            "minutes_in_day": 1035
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.2879032886028288,
+            "minutes_in_day": 1050
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.1015090686082838,
+            "minutes_in_day": 1065
+        },
+        {
+            "date": "2022-08-26",
+            "production": 1.0571146023273468,
+            "minutes_in_day": 1080
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.9045072841644286,
+            "minutes_in_day": 1095
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.7322527295351028,
+            "minutes_in_day": 1110
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.5866310808062553,
+            "minutes_in_day": 1125
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.610453113913536,
+            "minutes_in_day": 1140
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.42916179254651066,
+            "minutes_in_day": 1155
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.29640735670924184,
+            "minutes_in_day": 1170
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.21078956656157968,
+            "minutes_in_day": 1185
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.17230352506041524,
+            "minutes_in_day": 1200
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1215
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1230
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1245
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1260
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1275
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1290
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1305
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1320
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1335
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1350
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1365
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1380
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1395
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1410
+        },
+        {
+            "date": "2022-08-26",
+            "production": 0.0,
+            "minutes_in_day": 1425
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 0
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 15
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 30
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 45
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 60
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 75
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 90
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 105
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 120
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 135
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 150
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 165
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 180
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 195
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 210
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 225
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 240
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 255
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 270
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 285
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 300
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 315
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 330
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 345
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 360
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 375
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 390
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 405
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 420
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.1786305946111679,
+            "minutes_in_day": 435
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.2512602433562279,
+            "minutes_in_day": 450
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.3591632786393165,
+            "minutes_in_day": 465
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.5682236498594283,
+            "minutes_in_day": 480
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.6817034438252448,
+            "minutes_in_day": 495
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.737882621884346,
+            "minutes_in_day": 510
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.8948747554421423,
+            "minutes_in_day": 525
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.1674610674381254,
+            "minutes_in_day": 540
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.2931863445043563,
+            "minutes_in_day": 555
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.3577919709682462,
+            "minutes_in_day": 570
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.603095672726631,
+            "minutes_in_day": 585
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.7249359023571011,
+            "minutes_in_day": 600
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.8770145195722578,
+            "minutes_in_day": 615
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.0541013026237485,
+            "minutes_in_day": 630
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.1709115052223202,
+            "minutes_in_day": 645
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.707563453912735,
+            "minutes_in_day": 660
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.9364103353023525,
+            "minutes_in_day": 675
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.0627889108657835,
+            "minutes_in_day": 690
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.2196524333953853,
+            "minutes_in_day": 705
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.812711086273193,
+            "minutes_in_day": 720
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.8570853054523466,
+            "minutes_in_day": 735
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.8645760142803187,
+            "minutes_in_day": 750
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.926715927124023,
+            "minutes_in_day": 765
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.2351734542846677,
+            "minutes_in_day": 780
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.200108828544616,
+            "minutes_in_day": 795
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.1465074419975276,
+            "minutes_in_day": 810
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.0629631078243253,
+            "minutes_in_day": 825
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.3751247763633723,
+            "minutes_in_day": 840
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.4195112156867977,
+            "minutes_in_day": 855
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.449259839057922,
+            "minutes_in_day": 870
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.3954801821708678,
+            "minutes_in_day": 885
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.1902996468544003,
+            "minutes_in_day": 900
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.0540982317924494,
+            "minutes_in_day": 915
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.9786992228031157,
+            "minutes_in_day": 930
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.872600096464157,
+            "minutes_in_day": 945
+        },
+        {
+            "date": "2022-08-27",
+            "production": 3.0167822241783138,
+            "minutes_in_day": 960
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.8583066010475155,
+            "minutes_in_day": 975
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.760294334888458,
+            "minutes_in_day": 990
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.634662865400314,
+            "minutes_in_day": 1005
+        },
+        {
+            "date": "2022-08-27",
+            "production": 2.130454680919647,
+            "minutes_in_day": 1020
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.9929416370391844,
+            "minutes_in_day": 1035
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.9378045856952666,
+            "minutes_in_day": 1050
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.7842032426595686,
+            "minutes_in_day": 1065
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.1892234671115873,
+            "minutes_in_day": 1080
+        },
+        {
+            "date": "2022-08-27",
+            "production": 1.0888081455230711,
+            "minutes_in_day": 1095
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.983565507531166,
+            "minutes_in_day": 1110
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.8542830902338027,
+            "minutes_in_day": 1125
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.5230096551775931,
+            "minutes_in_day": 1140
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.3771341688930988,
+            "minutes_in_day": 1155
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.26100143551826477,
+            "minutes_in_day": 1170
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.19114060789346693,
+            "minutes_in_day": 1185
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.20626734942197797,
+            "minutes_in_day": 1200
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.1912901249527931,
+            "minutes_in_day": 1215
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.18614375196397304,
+            "minutes_in_day": 1230
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.17366124898195265,
+            "minutes_in_day": 1245
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1260
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1275
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1290
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1305
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1320
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1335
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1350
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1365
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1380
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1395
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1410
+        },
+        {
+            "date": "2022-08-27",
+            "production": 0.0,
+            "minutes_in_day": 1425
+        }
+    ]
+}

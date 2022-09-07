@@ -1,8 +1,0 @@
-  [
-    {"entity_id": "entity1", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 24.5},
-    {"entity_id": "entity2", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 23},
-    {"entity_id": "entity3", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 21},
-    {"entity_id": "entity4", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 21},
-    {"entity_id": "entity5", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 23},
-    {"entity_id": "entity6", "area": "living", "init_consumption": "0", "state": "off", "status": "off", "desired_temperature": 21}
-  ]

@@ -10,6 +10,7 @@ RUN apt update
 RUN apt install -y apache2
 RUN apt install -y apache2-utils
 RUN apt clean
+
 RUN cp /conf/vhost.conf /etc/apache2/sites-available/homsai.conf
 RUN service apache2 stop
 RUN a2enmod proxy

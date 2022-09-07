@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c16dbc78c54d9bea5aaa112fb17995a7",
+  "assets/AssetManifest.json": "415a55516a9a332fc3c0e4bbca8b0a75",
 "assets/assets/animations/hourglass.riv": "b4f6fc5dacb81aa59ca695855ce9a2e2",
 "assets/assets/animations/visibility.riv": "c0341a94af484496cb982bfc4a069f6e",
 "assets/assets/icons/access_banner.svg": "cfdd0ff47c96e94d49d30fb71f0f38d7",
@@ -57,6 +57,7 @@ const RESOURCES = {
 "assets/assets/test/add_on_store_list_empty.json": "d751713988987e9331980363e24189ce",
 "assets/assets/test/areas.json": "0a8d4126991e4c9323367379a0d500f6",
 "assets/assets/test/configuration.json": "7612161e411a95b39c8efb68a9265fea",
+"assets/assets/test/consumption_optimizer_forecast.json": "4c242e4cd8f2b41ef165badb291b36b4",
 "assets/assets/test/devices.json": "5960cc9262b3531550e20c84b1fe56e8",
 "assets/assets/test/device_related.json": "80eaa9da4223c0aa2d37f1c81735fe33",
 "assets/assets/test/empty.json": "d751713988987e9331980363e24189ce",
@@ -65,20 +66,24 @@ const RESOURCES = {
 "assets/assets/test/entities_mix_friendly_name.json": "733512789b5762f5fc6e6db414c40b2a",
 "assets/assets/test/entities_no_area.json": "4870170dfcc3c293018d896f76ffcfee",
 "assets/assets/test/entities_no_friendly_name.json": "f042c08cf23e8811d84c4aa3562b1e69",
+"assets/assets/test/homsai_engine_device_settings.json": "e8196e29dbb9ddf9aa054dd438f4769e",
+"assets/assets/test/homsai_engine_device_settings_optimizer_enabled.json": "52b9687dcea7517e015962b5966613d8",
+"assets/assets/test/homsai_engine_device_settings_temperature_changed.json": "98f4753cd034f6065dd1c996e640e9ff",
 "assets/assets/test/homsai_engine_initialization_status.json": "634b9fcb8c700c7e0715c745ea2804f6",
 "assets/assets/test/homsai_engine_initialization_status_finished.json": "9d248f81b07d6ac8fe666a2bd65ee189",
 "assets/assets/test/homsai_engine_initialization_status_in_progress.json": "60f48a2ae191c9fee0b828f18e922df9",
-"assets/assets/test/homsai_engine_settings.json": "e8196e29dbb9ddf9aa054dd438f4769e",
-"assets/assets/test/homsai_engine_settings_optimizer_enabled.json": "52b9687dcea7517e015962b5966613d8",
-"assets/assets/test/homsai_engine_settings_temperature_changed.json": "98f4753cd034f6065dd1c996e640e9ff",
 "assets/assets/test/honsai_engine_initialization.json": "f8b8b3ce7bcb51c710c2b2831564d5ab",
 "assets/assets/test/honsai_engine_initialization_empty.json": "b5bf3b8ed5ff45b2fa5a5d5d53b371f2",
-"assets/assets/test/hvac_devices.json": "a3638092ff154d6cf391473bec044904",
+"assets/assets/test/honsai_engine_sensor_settings.json": "5359e6dae25b791796a452f4a4c8e4f7",
+"assets/assets/test/hvac_entities.json": "5ea3a22ab5b98f2768f008e75132c3a8",
+"assets/assets/test/hvac_entity.json": "726893108410d7f4c891351ff926d458",
 "assets/assets/test/ingress_session.json": "f51d9998244247fbcfabe955190e0442",
 "assets/assets/test/optimized_chart.json": "d14b56ac1672d0cd4963847f2de28868",
-"assets/assets/test/photovoltaic.json": "3419ed145fadaead80f773b92f1357e7",
+"assets/assets/test/photovoltaic.json": "f154004666554615aa134ac465c51232",
+"assets/assets/test/photovoltaic_forecast.json": "5dc06c9e27759642c58266d577387cae",
 "assets/assets/test/related.json": "c8a759d6d3232b631da7e8b491020445",
 "assets/assets/test/repository_list.json": "f010bbf19d2cc3779d96b1dab1d13fb1",
+"assets/assets/test/sensor_history.json": "7295f5dd8c996082df4102fb1a7e6955",
 "assets/FontManifest.json": "b05a10376d2d102dae50f53fb9828401",
 "assets/fonts/helvetica_now_text/HelveticaNowText-Black.ttf": "117c71b7286d706210793f2b3490d58f",
 "assets/fonts/helvetica_now_text/HelveticaNowText-Bold.ttf": "96976e7e3b88662d3531fb76f7f576a7",
@@ -88,7 +93,7 @@ const RESOURCES = {
 "assets/fonts/helvetica_now_text/HelveticaNowText-Regular.ttf": "b031939748eb935aaebd8398d748f402",
 "assets/fonts/joyride_extended_typeface/Joyride-Regular.otf": "2c6ea0e6110ef1238fcd999dd3e85f6f",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "01ac8e08af0f5c4779a8570acf0097ea",
+"assets/NOTICES": "35462d572cd59f70e3bd038ea00876f3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -655,17 +660,18 @@ const RESOURCES = {
 "assets/packages/flutter_localized_locales/data/zh_TW.json": "83feaf4b539212076f79f6028ed91451",
 "assets/packages/flutter_localized_locales/data/zu.json": "bdb48dd1f3a2a1bc155b877294cc0655",
 "assets/packages/flutter_localized_locales/data/zu_ZA.json": "bdb48dd1f3a2a1bc155b877294cc0655",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"index.html": "d03eb3e27641421fc97b6c104da610e9",
-"/": "d03eb3e27641421fc97b6c104da610e9",
-"main.dart.js": "46d7d823bfa9b10a332466c03aace412",
-"main.dart.js_1.part.js": "04a79583b285dc2b0e226386b3894bfa",
-"main.dart.js_2.part.js": "a85c9591ef81704e25f5a856fb752cfe",
-"main.dart.js_3.part.js": "60a980e5e567f90c2ce5f6f9a7901d6e",
+"assets/shaders/ink_sparkle.frag": "5961354edcee8567cadc283b29b4d1a0",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "bc8d54a9d1e13ea8fdfa4554d9a09381",
+"/": "bc8d54a9d1e13ea8fdfa4554d9a09381",
+"main.dart.js": "18a3e462170e08b0bdf00ac405c9f5b1",
+"main.dart.js_1.part.js": "3a37eb4558a522d6e450492fc2b3e214",
+"main.dart.js_2.part.js": "2f1418313f8d355758ed1d1725648b2c",
+"main.dart.js_3.part.js": "3b1fba4b4d94765010cc87d12dd7a498",
 "splash/img/dark-1x.png": "51ba4ab88315a0ddfb8ef5329cdc414f",
 "splash/img/dark-2x.png": "c801556fa5126f8543021055d9d9ca59",
 "splash/img/dark-3x.png": "38a3fa63fba2b1e1cb4cc7c428380084",
@@ -677,7 +683,7 @@ const RESOURCES = {
 "splash/img/light-background.png": "291caf7c4d9d2742f318589b9eb80cd6",
 "splash/splash.js": "d6c41ac4d1fdd6c1bbe210f325a84ad4",
 "splash/style.css": "8404618e0cfd894f0617c386f9de04b6",
-"version.json": "633f870e9a59c45db7c88e085ba9639d"
+"version.json": "8ba945470e4d9eb53d5964dfb834bb7f"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -685,7 +691,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -784,9 +789,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
