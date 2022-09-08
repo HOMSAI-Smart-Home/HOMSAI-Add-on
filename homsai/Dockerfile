@@ -2,7 +2,7 @@ FROM adoptopenjdk/openjdk11
 
 COPY rootfs /
 
-EXPOSE 80
+EXPOSE 8098
 
 RUN apt update && apt install wget
 RUN wget "https://github.com/HOMSAI-Smart-Home/HOMSAI-Engine/releases/download/v0.0.25-dev-alpha/homsai-engine-0.0.25.jar" -P /home
@@ -17,5 +17,6 @@ RUN a2enmod proxy
 RUN a2enmod proxy_http
 RUN a2dissite 000-default
 RUN a2ensite homsai
+RUN sed -i -e 's/80/8098/g' /etc/apache2/ports.conf
 
 CMD service apache2 start && java -jar /home/homsai-engine-0.0.25.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
