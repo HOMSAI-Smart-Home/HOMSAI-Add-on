@@ -11,7 +11,7 @@ ingress: true
 auth_api: true
 ingress_port: 8098
 ports:
-  80/tcp: 8098
+  8098/tcp: 8098
   8099/tcp: 8099
 arch:
   - aarch64
