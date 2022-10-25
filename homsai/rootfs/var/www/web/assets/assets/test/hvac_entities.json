@@ -3,6 +3,7 @@
     {
       "entity_id": "climate.climate",
       "active": true,
+      "hvac_mode": "off",
       "area_id": "bedroom",
       "current_temperature": 22.57,
       "set_temperature": 25.0,
@@ -18,6 +19,7 @@
     {
       "entity_id": "climate.climate2",
       "active": true,
+      "hvac_mode": "off",
       "area_id": "bedroom2",
       "current_temperature": 22.57,
       "set_temperature": 25.0,
