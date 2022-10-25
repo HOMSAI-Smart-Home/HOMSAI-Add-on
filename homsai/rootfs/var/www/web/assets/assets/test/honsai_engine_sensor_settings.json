@@ -1,0 +1,12 @@
+{
+    "general_power_meter_id": "sensor.general_power_meter_id",
+    "hvac_power_meter_id": "sensor.hvac_power_meter_id",
+    "hvac_summer_power_meter_id": "sensor.hvac_power_meter_id",
+    "hvac_winter_power_meter_id": "sensor.hvac_power_meter_id",
+    "photovoltaic_production_meter_id": "sensor.photovoltaic_production_meter_id:",
+    "photovoltaic_storage_meter_id": "sensor.photovoltaic_storage_meter_id",
+    "photovoltaic_peak_power": 8.04,
+    "photovoltaic_install_date": null,
+    "latitude": 0,
+    "longitude": 0
+}

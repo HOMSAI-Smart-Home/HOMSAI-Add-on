@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "entity_id": "climate.climate",
+      "active": true,
+      "hvac_mode": "off",
+      "area_id": "bedroom",
+      "current_temperature": 22.57,
+      "set_temperature": 25.0,
+      "delta_temperature": -2.4299999999999997,
+      "intervals": [],
+      "power_consumption": 416.0,
+      "actual_power_consumption": 414.8,
+      "start_time": "2022-09-01T13:20:20.118890Z",
+      "end_time": "1970-01-01T00:00:00Z",
+      "enabled": true,
+      "manual": true
+    },
+    {
+      "entity_id": "climate.climate2",
+      "active": true,
+      "hvac_mode": "off",
+      "area_id": "bedroom2",
+      "current_temperature": 22.57,
+      "set_temperature": 25.0,
+      "delta_temperature": -2.4299999999999997,
+      "intervals": [],
+      "power_consumption": 416.0,
+      "actual_power_consumption": 414.8,
+      "start_time": "2022-09-01T13:20:20.118890Z",
+      "end_time": "1970-01-01T00:00:00Z",
+      "enabled": true,
+      "manual": true
+    }
+  ]
+}

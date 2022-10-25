@@ -1,0 +1,10 @@
+version: '2'
+services:
+  homsai-web:
+    build: ./
+    container_name: homsai-web
+    ports:
+      - "8099:8099"
+      - "80:80"
+    volumes:
+      - ./rootfs/var/www/:/var/www/html:z

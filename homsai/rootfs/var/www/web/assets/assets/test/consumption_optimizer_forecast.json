@@ -1,0 +1,2038 @@
+{
+    "optimized_general_power_meter_data": [
+        {
+            "entity_id": null,
+            "state": "0.11924408660509983",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08874939885697081",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08499317507075221",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10221116241101766",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10486355975547668",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.19119581615062453",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10911184861743989",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15670136479003544",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.07634982123715411",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16781953679073341",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1510633301150044",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08576999386899076",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1019526661702653",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10451607362453125",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0648023981954644",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11402153543725939",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08497931722187113",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.17867904162499856",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.04642049402011833",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.061489606079784875",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11154823479465092",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09229334013277604",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14044332369206738",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09728655412338061",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09522333027197374",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06668245421124222",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10583458012377059",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06889996393151465",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11551035000484117",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11169958138749947",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12467353522465255",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.053939062049844305",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14498016116965845",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08707316002542681",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15095667007767075",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1199258689983593",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06487570328070955",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0649876781730212",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12347602744931316",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12004362176692995",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11960567197440397",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1211038875709009",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06794662329268263",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06291131306540812",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09078651872216484",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5504532687443442",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5797932165601866",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7189782944738774",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7779565889477549",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8369348834216322",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8559131778955097",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.994891472369387",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.39386976684326447",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.4128480613171419",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.43182635579101936",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5608046502648966",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.579782944738774",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.44876123921265143",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.4677395336865289",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.4867178281604063",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5756961226342836",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6246744171081611",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6436527115820385",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7326310060559158",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7116093005297933",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7305875950036705",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.779565889477548",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7385441839514255",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.757522478425303",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8065007728991803",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7554790673730576",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.774457361846935",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "1.0134356563208125",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "1.06241395079469",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "1.0813922452685674",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9103705397424445",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9793488342163219",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9603705397424445",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.971392245268567",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9924139507946896",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9734356563208124",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.944457361846935",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9054790673730575",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8865007728991801",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8875224784253026",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6485441839514254",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.629565889477548",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6105875950036705",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.761609300529793",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7426310060559156",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6936527115820385",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.844674417108161",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8256961226342836",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8167178281604061",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8077395336865288",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.7887612392126514",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.749782944738774",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5708046502648966",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5518263557910191",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5328480613171419",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.6538697668432645",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.634891472369387",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.49591317789550954",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9569348834216321",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.9379565889477549",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.8589782944738774",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.93",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.93",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.94",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.670414652306282",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.5640560347743996",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.4",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.45",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.45",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.36",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.4010279121225557",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.40313876493382256",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.2724965257768755",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1132159537251948",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1386861620570696",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.23170755963806608",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13306381354393856",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09498219838706604",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1197944377973261",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16136689539659316",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.24502921651012405",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13865769835456992",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15667780344816384",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14730643930329357",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14706527459494576",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.2343125870174599",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1174002696091731",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09084347771289153",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.07730210302146945",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15654688647315448",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16850109137784336",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1229277586886397",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.24036611877249742",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11585826163012714",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.2026417695351288",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16496147108270676",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13129790845596861",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:50:00Z",
+            "last_updated": null
+        }
+    ],
+    "optimized_battery_data": [
+        {
+            "entity_id": null,
+            "state": "0.11924408660509983",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08874939885697081",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08499317507075221",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10221116241101766",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10486355975547668",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.19119581615062453",
+            "attributes": null,
+            "last_changed": "2022-08-21T22:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10911184861743989",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15670136479003544",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.07634982123715411",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16781953679073341",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1510633301150044",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08576999386899076",
+            "attributes": null,
+            "last_changed": "2022-08-21T23:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1019526661702653",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10451607362453125",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0648023981954644",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11402153543725939",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08497931722187113",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.17867904162499856",
+            "attributes": null,
+            "last_changed": "2022-08-22T00:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.04642049402011833",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.061489606079784875",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11154823479465092",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09229334013277604",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14044332369206738",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09728655412338061",
+            "attributes": null,
+            "last_changed": "2022-08-22T01:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09522333027197374",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06668245421124222",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.10583458012377059",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06889996393151465",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11551035000484117",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11169958138749947",
+            "attributes": null,
+            "last_changed": "2022-08-22T02:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12467353522465255",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.053939062049844305",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14498016116965845",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08707316002542681",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15095667007767075",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1199258689983593",
+            "attributes": null,
+            "last_changed": "2022-08-22T03:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06487570328070955",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0649876781730212",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12347602744931316",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.12004362176692995",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11960567197440397",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1211038875709009",
+            "attributes": null,
+            "last_changed": "2022-08-22T04:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06794662329268263",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06291131306540812",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.03078651872216484",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.040453268744344184",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.06979321656018656",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T05:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-0.050000000000000044",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-0.0310217055261226",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-0.39204341105224505",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1469348834216323",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16591317789550974",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.08489147236938699",
+            "attributes": null,
+            "last_changed": "2022-08-22T06:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.2061302331567356",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.1871519386828582",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.1681736442089807",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.2891953497351034",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.270217055261226",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.4812387607873485",
+            "attributes": null,
+            "last_changed": "2022-08-22T07:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-1.5722604663134712",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "-0.4024093777486766",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T08:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T09:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T10:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T11:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14854418395142543",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.129565889477548",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "5.875950036705602E-4",
+            "attributes": null,
+            "last_changed": "2022-08-22T12:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T13:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T14:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.013869766843264464",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T15:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.500414652306282",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.39405603477439954",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T16:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.0",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.011027912122555661",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.013138764933822544",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.022496525776875498",
+            "attributes": null,
+            "last_changed": "2022-08-22T17:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1132159537251948",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1386861620570696",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.23170755963806608",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13306381354393856",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09498219838706604",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1197944377973261",
+            "attributes": null,
+            "last_changed": "2022-08-22T18:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16136689539659316",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.24502921651012405",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13865769835456992",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15667780344816384",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14730643930329357",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.14706527459494576",
+            "attributes": null,
+            "last_changed": "2022-08-22T19:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.2343125870174599",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1174002696091731",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.09084347771289153",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.07730210302146945",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.15654688647315448",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16850109137784336",
+            "attributes": null,
+            "last_changed": "2022-08-22T20:50:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.1229277586886397",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:00:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.24036611877249742",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:10:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.11585826163012714",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:20:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.2026417695351288",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:30:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.16496147108270676",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:40:00Z",
+            "last_updated": null
+        },
+        {
+            "entity_id": null,
+            "state": "0.13129790845596861",
+            "attributes": null,
+            "last_changed": "2022-08-22T21:50:00Z",
+            "last_updated": null
+        }
+    ],
+    "without_homsai": {
+        "balance": 0.6057333333333336,
+        "bought_energy": 0.0,
+        "bought_energy_expense": 0.0,
+        "sold_energy": 15.143333333333338,
+        "sold_energy_earning": 0.6057333333333336,
+        "self_consumption_percent": 56.96038803556992
+    },
+    "with_homsai": {
+        "balance": 0.6359333333333332,
+        "bought_energy": 0.0,
+        "bought_energy_expense": 0.0,
+        "sold_energy": 15.89833333333333,
+        "sold_energy_earning": 0.6359333333333332,
+        "self_consumption_percent": 83.75126605905777
+    }
+}
