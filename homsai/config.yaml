@@ -1,5 +1,5 @@
 name: Homsai Engine
-version: "0.8.3"
+version: "0.8.3.1"
 slug: homsai
 description: Add on that exposes the homsai magic to home assistant
 url: https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on
