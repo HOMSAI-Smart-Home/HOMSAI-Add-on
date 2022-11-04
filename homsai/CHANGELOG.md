@@ -1,7 +1,15 @@
-## 0.0.1
+## 0.8.3
 
-- Initial release
+First public release.
+Implements photovoltaic optimizations in HVAC devices:
 
-## 0.0.2
+* heating
+* cooling
 
-- Adds Homsai PV Optimizer®
+## 0.8.3.1
+
+Now optimizer is enabled after init
+
+## 0.8.3.2
+
+Fixes bug on update HVAC device temperature while winter mode on

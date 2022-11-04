@@ -5,7 +5,7 @@ COPY rootfs /
 EXPOSE 8098
 
 RUN apt update && apt install wget
-RUN wget "https://github.com/HOMSAI-Smart-Home/HOMSAI-Engine/releases/download/v0.8.3.1/homsai-engine-0.8.3.1.jar" -P /home
+RUN wget "https://github.com/HOMSAI-Smart-Home/HOMSAI-Engine/releases/download/v0.8.3.2/homsai-engine-0.8.3.2.jar" -P /home
 RUN apt update
 RUN apt install -y apache2
 RUN apt install -y apache2-utils
@@ -19,4 +19,4 @@ RUN a2dissite 000-default
 RUN a2ensite homsai
 RUN sed -i -e 's/80/8098/g' /etc/apache2/ports.conf
 
-CMD service apache2 start && java -jar /home/homsai-engine-0.8.3.1.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
+CMD service apache2 start && java -jar /home/homsai-engine-0.8.3.2.jar --home_assistant.api_url=http://supervisor/core  --home_assistant.token="$SUPERVISOR_TOKEN"
