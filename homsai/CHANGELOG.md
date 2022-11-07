@@ -13,3 +13,7 @@ Now optimizer is enabled after init
 ## 0.8.3.2
 
 Fixes bug on update HVAC device temperature while winter mode on
+
+## 0.8.3.2
+
+Add support for Heat Pump trigger (switch) during HVAC Init and PV Optimizer
