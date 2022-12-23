@@ -1,0 +1,8 @@
+{
+  "set_temperature": 28,
+  "optimizer_enabled": true,
+  "optimizer_mode": 1,
+  "hvac_switch_entity_id": null,
+  "current_winter_hvac_equipment_uuid": "test",
+  "current_summer_hvac_equipment_uuid": null
+}

@@ -1,3 +1,5 @@
+# <u> [Read the full Documentation](https://doc.homsai.app/)</u>
+
 # Homsai Engine - Quick Setup
 
 ## Register for the Closed Beta
@@ -43,5 +45,5 @@
 
 ## Additional Resources
 
-- Read the full documentation [here](https://homsai.app/wp-content/uploads/2022/06/doc-Homsai-Engine.pdf)
+- Read the full documentation [here](https://doc.homsai.app/)
 - Any other questions? Please contact our support team [clicking here](mailto:hello@homsai.app)

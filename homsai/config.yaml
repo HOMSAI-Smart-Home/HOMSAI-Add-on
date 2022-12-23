@@ -1,5 +1,5 @@
 name: Homsai Engine
-version: "0.8.3.5"
+version: "0.8.6"
 slug: homsai
 description: Add on that exposes the homsai magic to home assistant
 url: https://github.com/HOMSAI-Smart-Home/HOMSAI-Add-on
@@ -9,6 +9,8 @@ hassio_api: true
 homeassistant_api: true
 ingress: true
 auth_api: true
+panel_icon: mdi:brain
+panel_title: Homsai
 ingress_port: 8098
 ports:
   8098/tcp: 8098

@@ -1,0 +1,10 @@
+[
+  {
+    "uuid": "test",
+    "name": "test",
+    "season": 1,
+    "minimum_idle_minutes": 0,
+    "minimum_execution_minutes": 0,
+    "switch_required": true
+  }
+]

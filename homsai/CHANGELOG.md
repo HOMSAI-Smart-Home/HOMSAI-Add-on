@@ -21,3 +21,7 @@ Add support for Heat Pump trigger (switch) during HVAC Init and PV Optimizer
 ## 0.8.3.5
 
 Fixes a bug on Heat Pump trigger (switch) during PV Optimizer, reduced floor_radiant minimum exec time to 90 mins
+
+## 0.8.6
+
+Now Homsai requires username and password to login
