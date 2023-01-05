@@ -25,3 +25,7 @@ Fixes a bug on Heat Pump trigger (switch) during PV Optimizer, reduced floor_rad
 ## 0.8.6
 
 Now Homsai requires username and password to login
+
+## 0.8.7
+
+Various bug fix
