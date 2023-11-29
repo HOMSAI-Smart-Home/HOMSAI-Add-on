@@ -8,3 +8,4 @@ services:
       - "80:80"
     volumes:
       - ./rootfs/var/www/:/var/www/html:z
+    mem_limit: 2g
